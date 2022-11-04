@@ -1,0 +1,55 @@
+(base) donatellatesei@Donatellas-MacBook-Air ~ % pwd
+/Users/donatellatesei
+(base) donatellatesei@Donatellas-MacBook-Air ~ % ls
+(null)				Public
+Applications			Untitled.ipynb
+Creative Cloud Files		Untitled1.ipynb
+DATEINAME			Untitled10.ipynb
+Desktop				Untitled11.ipynb
+Documents			Untitled12.ipynb
+Downloads			Untitled13.ipynb
+FinalProject.ipynb		Untitled2.ipynb
+FirstDay.ipynb			Untitled3.ipynb
+FirstDay_a.ipynb		Untitled4.ipynb
+FirstDay_b.ipynb		Untitled5.ipynb
+FirstDay_beginning.ipynb	Untitled6.ipynb
+FromFunctionsToSets.ipynb	Untitled7.ipynb
+From_Modules.ipynb		Untitled8.ipynb
+From_Panda.ipynb		Untitled9.ipynb
+Library				adoption.csv
+License.pdf			movies_top_awards.csv
+Movies				movies_top_awards.xlsx
+Music				opt
+OmicsBoxFiles			untitled.txt
+Pictures
+(base) donatellatesei@Donatellas-MacBook-Air ~ % cd Desktop
+(base) donatellatesei@Donatellas-MacBook-Air Desktop % pwd
+/Users/donatellatesei/Desktop
+(base) donatellatesei@Donatellas-MacBook-Air Desktop % ls
+AMS
+CommandLine_Terminal_Help
+DatabaseDevelopment
+DatabaseDevelopment_day1
+Foto50esimo
+Gutschein_GPZE4S25.pdf
+HTML
+HTML_CSS_GIT
+Health
+NewOct2022
+Relocated Items.nosync
+Screen Shot 2022-10-22 at 6.20.19 PM.png
+Screen Shot 2022-11-01 at 7.53.07 PM (2).png
+Screen Shot 2022-11-01 at 7.53.07 PM.png
+Screen Shot 2022-11-03 at 9.31.16 AM.png
+Screen Shot 2022-11-03 at 9.33.23 AM.png
+Screen Shot 2022-11-03 at 9.33.55 AM.png
+Screen Shot 2022-11-03 at 9.45.03 AM.png
+Screen Shot 2022-11-03 at 9.49.41 AM.png
+Screenshots
+aminoacids-pic3revised1574260662291.png
+exec_small.png
+(base) donatellatesei@Donatellas-MacBook-Air Desktop % cd DatabaseDevelopment
+(base) donatellatesei@Donatellas-MacBook-Air DatabaseDevelopment % git clone https://github.com/DonatellaTesei/DatabaseDevelopmente_Day4_MySQL2.git
+Cloning into 'DatabaseDevelopmente_Day4_MySQL2'...
+warning: You appear to have cloned an empty repository.
+(base) donatellatesei@Donatellas-MacBook-Air DatabaseDevelopment % 
