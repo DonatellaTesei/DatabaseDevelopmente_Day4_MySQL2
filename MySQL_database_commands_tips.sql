@@ -84,6 +84,11 @@ ALTER TABLE 'user' ADD FOREIGN KEY(fk_profile_ID) REFERNCES 'profile'(profile_ID
 ALTER TABLE 'user' ADD PRIMARY KEY(user_ID);
 ADD CONSTRAINT `enroll_ibfk_1` FOREIGN KEY (`fk_student_id`) REFERENCES `students` (`id`);
 
+#JOIN 
+SELECT user.first_name, user.last_name, family_members.name 
+FROM user
+INNER JOIN family_members on fk_family_members_ID = family_members_ID;
+
 #MODIFY a table #ask Serri about this!!!
 MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
